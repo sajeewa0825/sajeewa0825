@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C and python**
 
-- 💬 Ask me about **C,java and Python**
+- 💬 Ask me about **C, java and Python**
 
 - 📫 How to reach me **sajeewa0825@gmail.com**
 
