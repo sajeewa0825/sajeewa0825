@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajeewa0825" alt="sajeewa0825" /></a> </p>
 
-- 🌱 I’m currently learning **Java, C and python**
+- 🌱 I’m currently learning **C and python**
 
-- 💬 Ask me about **C and Python**
+- 💬 Ask me about **C,java and Python**
 
 - 📫 How to reach me **sajeewa0825@gmail.com**
 
