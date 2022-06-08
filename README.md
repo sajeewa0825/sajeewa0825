@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajeewa0825" alt="sajeewa0825" /></a> </p>
 
-- 🌱 I’m currently learning **C and python**
+- 🌱 I’m currently learning **C, python and MERN stack**
 
 - 💬 Ask me about **C, java and Python**
 
