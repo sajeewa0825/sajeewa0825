@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, java and Python**
 
-- 📫 How to reach me **sajeewa0825@gmail.com**
+- 📫 How to reach me **sajeewakmss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
