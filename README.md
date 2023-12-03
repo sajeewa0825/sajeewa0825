@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm sajeewa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+of+Uva+wellassa+University+Sri+Lanka;Software+developer;Problem+Solver;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+intelligence+(AI);Student+of+Uva+wellassa+University+Sri+Lanka;backend+developer;Software+developer;Problem+Solver;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C, python and MERN stack**
 
-- 💬 Ask me about **C, java and Python**
+- 💬 Ask me about **Artificial intelligence (AI), Backend Development **
 
 - 📫 How to reach me **sajeewakmss@gmail.com**
 
