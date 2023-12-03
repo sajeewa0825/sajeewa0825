@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajeewa0825" alt="sajeewa0825" /></a> </p>
 
-- 🌱 I’m currently learning **C, python and MERN stack**
+- 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Artificial intelligence (AI), Backend Development **
+- 💬 Ask me about **Artificial intelligence (AI), Backend Development**
 
 - 📫 How to reach me **sajeewakmss@gmail.com**
 
